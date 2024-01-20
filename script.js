@@ -7,7 +7,7 @@ var interval;
 var both = 0;
 var counter = 0;
 var currentBlocks = [];
-var speed = 5; // Initial speed
+var speed = 2.5; // Initial speed
 
 // Initialize score element
 scoreElement.setAttribute("id", "score");
